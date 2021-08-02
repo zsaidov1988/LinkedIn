@@ -1034,6 +1034,14 @@ letter-spacing: -0.2px;
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
+  margin-bottom: 16px;
+  margin-top: 0px;
+}
+
+.middle__profile {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
   margin-bottom: 20px;
   margin-top: -9px;
 }
